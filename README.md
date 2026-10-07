@@ -1,0 +1,2 @@
+# servidor-dos-amigo
+aa
